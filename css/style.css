@@ -1,0 +1,26 @@
+.bg-black {
+    background-color: black;
+}
+
+.sony {
+    height: 20px;
+}
+
+.bi-search {
+    font-size: 24px;
+}
+
+.jumbotron {
+  background-image: url(../img/returnal-listing-thumb-01-ps5.jpg);
+  height: 785px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  margin-top: 102px;
+}
+
+.position {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
