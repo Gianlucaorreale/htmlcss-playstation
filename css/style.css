@@ -6,21 +6,36 @@
     height: 20px;
 }
 
+.returnal {
+    height: 50px;
+}
+
 .bi-search {
     font-size: 24px;
 }
 
+.total {
+    margin-top:300px
+}
+
 .jumbotron {
   background-image: url(../img/returnal-listing-thumb-01-ps5.jpg);
-  height: 785px;
-  background-size: 100%;
-  background-repeat: no-repeat;
-  margin-top: 102px;
+  height: 554px;
+    background-repeat: no-repeat;
+    background-size: 239%;
+    background-position-x: right;
+    background-position-y: center;
+}
+
+
+
+.photo {
+    width: 100%;
 }
 
 .position {
-    position: fixed;
+    position: sticky;
     top: 0;
-    left: 0;
-    right: 0;
+    
 }
+
