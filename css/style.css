@@ -19,12 +19,11 @@
 }
 
 .jumbotron {
-  background-image: url(../img/returnal-listing-thumb-01-ps5.jpg);
+  background-image: url(../img/jumbo-bg.png);
   height: 554px;
     background-repeat: no-repeat;
-    background-size: 239%;
-    background-position-x: right;
-    background-position-y: center;
+    background-size: 285%;
+    background-position-x: center;
 }
 
 .jumbotron-2 {
@@ -35,8 +34,16 @@
       background-position-x: center;
 }
 
+.bg-color-gray {
+    background-color:#BEBCBB;
+}
+
 .photo {
     width: 100%;
+}
+
+.ps-plus {
+    height: 50px;
 }
 
 .it-takes-two {
