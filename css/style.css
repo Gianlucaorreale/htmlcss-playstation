@@ -42,11 +42,18 @@
     background-color:#161C3B;
 }
 
+.bg-color-light-blue {
+    background-color:#00439C;
+}
+
 .photo {
     width: 100%;
 }
 
 .ps-plus {
+    height: 50px;
+}
+.sie {
     height: 50px;
 }
 
@@ -57,6 +64,9 @@
 .position {
     position: sticky;
     top: 0;
-    
+}
+
+li {
+    list-style-type: none;
 }
 
