@@ -22,7 +22,7 @@
   background-image: url(../img/jumbo-bg.png);
   height: 554px;
     background-repeat: no-repeat;
-    background-size: 285%;
+    background-size: cover;
     background-position-x: center;
 }
 
@@ -30,7 +30,7 @@
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
     height: 450px;
       background-repeat: no-repeat;
-      background-size: 230%;
+      background-size: cover;
       background-position-x: center;
 }
 
