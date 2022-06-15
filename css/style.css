@@ -48,6 +48,8 @@
 
 .photo {
     width: 100%;
+    filter: opacity(75%);
+    
 }
 
 .ps-plus {
@@ -64,9 +66,28 @@
 .position {
     position: sticky;
     top: 0;
+    z-index: 5;
 }
 
 li {
     list-style-type: none;
 }
+
+
+
+/*EFFECTS*/
+.hover-bar {
+    background-color: blue;
+    height: 2px;
+    width: 100%;
+    display: none;
+}
+
+.photo:hover {
+    filter: opacity(100%);
+}
+
+
+
+
 
